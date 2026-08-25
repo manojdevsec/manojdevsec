@@ -1,411 +1,427 @@
 <div align="center">
 
-# `YOUR_NAME`
-
-### Software Engineer · Full Stack · Cloud · System Design
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+Production-Ready+Software;Designing+Scalable+Systems;Backend+%7C+Cloud+%7C+AI;Solving+Complex+Engineering+Problems"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:05070A,35:0D1117,65:111827,100:1D4ED8&text=YOUR_NAME&fontAlignY=35&fontSize=54&fontColor=FFFFFF&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%7C%20SYSTEMS%20%7C%20CLOUD%20%7C%20AI&descAlignY=58&descSize=17&descColor=58A6FF"/>
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://YOUR_PORTFOLIO.com">
-<img src="https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=googlechrome&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=650&color=58A6FF&center=true&vCenter=true&width=900&height=45&lines=Software+Engineer;Full-Stack+%7C+Backend+%7C+Cloud;Designing+Scalable+Systems;Building+Production-Grade+Applications;Engineering+AI-Powered+Products;Turning+Ideas+Into+Reliable+Systems" />
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00C853?style=for-the-badge&logo=statuspage&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-SYSTEM%20DESIGN-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODE-ENGINEERING-8B5CF6?style=for-the-badge"/>
+
+<br/><br/>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&label=Followers&logo=github"/>
+</a>
+&nbsp;
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&label=Stars&logo=github"/>
+</a>
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About
+<div align="center">
 
-```text id="n0lq8j"
-Software Engineer focused on building reliable, scalable and
-maintainable software.
+## `> INITIALIZING ENGINEERING PROFILE...`
 
-I enjoy solving problems across:
+```text id="q2k3hf"
+[████████████████████████████████████████] 100%
 
-    ├── Backend Engineering
-    ├── Full-Stack Development
-    ├── System Design
-    ├── Cloud Infrastructure
-    ├── Database Engineering
-    ├── Distributed Systems
-    └── AI-powered Applications
+SYSTEM ................. ONLINE
+ENGINEERING ............ ACTIVE
+CLOUD .................. CONNECTED
+AI ..................... INITIALIZED
+OPEN SOURCE ............ ENABLED
+STATUS ................. BUILDING
 ```
 
-* 🔭 Currently building **production-grade applications**
-* 🧠 Strengthening **DSA + System Design**
-* ☁️ Learning deeper **Cloud & DevOps**
-* 🤖 Exploring **LLMs, RAG & AI Agents**
-* 🚀 Interested in **high-scale backend systems**
-* 🤝 Open to meaningful engineering collaborations
+</div>
 
 ---
 
-# 🧠 Engineering Stack
-
-## Languages
+# `01` · ENGINEERING IDENTITY
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,go,cpp,c,sql,bash&perline=9"/>
+### `I don't just write code.`
+
+### `I engineer systems.`
+
+</div>
+
+I'm a software engineer focused on building **reliable, scalable and maintainable software**.
+
+My interests sit at the intersection of:
+
+```text id="e4j7dn"
+                SOFTWARE ENGINEERING
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+        ▼                ▼                ▼
+     BACKEND          SYSTEMS           CLOUD
+        │                │                │
+        └────────────────┼────────────────┘
+                         │
+                         ▼
+                       AI
+```
+
+### Engineering Philosophy
+
+> **Simple systems scale better.
+> Measurable systems improve faster.
+> Reliable systems create impact.**
+
+---
+
+# `02` · TECHNOLOGY UNIVERSE
+
+## ⚡ Core Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,go,cpp,rust,bash,sql&perline=9"/>
 
 </div>
 
 ---
 
-## Frontend
+## 🎨 Frontend Engineering
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css,vite&perline=7"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,tailwind,sass,vite&perline=9"/>
 
 </div>
 
 ---
 
-## Backend
+## ⚙️ Backend Engineering
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,spring,graphql&perline=7"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,spring,graphql,nginx,kafka,rabbitmq&perline=10"/>
 
 </div>
 
 ---
 
-## Databases
+## ☁️ Cloud & Infrastructure
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase&perline=6"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,cloudflare,linux&perline=9"/>
 
 </div>
 
 ---
 
-## Cloud & DevOps
+## 🗄️ Data Engineering
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,nginx,linux&perline=7"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase,sqlite&perline=7"/>
 
 </div>
 
 ---
 
-# 🏗️ Core Engineering Skills
+## 🤖 Artificial Intelligence
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=3"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LLM%20Engineering-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Search-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge"/>
+
+</div>
+
+---
+
+# `03` · ENGINEERING CAPABILITIES
 
 <table>
 <tr>
-<td>
 
-### Backend
+<td width="25%" align="center">
 
-* REST APIs
-* GraphQL
-* Authentication
-* Authorization
-* Microservices
-* Background Jobs
-* Caching
-* Rate Limiting
+### 🧠
 
-</td>
+**SYSTEMS**
 
-<td>
-
-### Databases
-
-* PostgreSQL
-* Query Optimization
-* Indexing
-* Transactions
-* Database Design
-* Redis
-* Data Modeling
-* Replication
+System Design
+Distributed Systems
+Scalability
+Fault Tolerance
 
 </td>
 
-<td>
+<td width="25%" align="center">
 
-### Systems
+### ⚙️
 
-* System Design
-* Distributed Systems
-* Event-Driven Architecture
-* Message Queues
-* Load Balancing
-* Horizontal Scaling
-* Fault Tolerance
-* Observability
+**BACKEND**
+
+APIs
+Microservices
+Caching
+Message Queues
 
 </td>
+
+<td width="25%" align="center">
+
+### ☁️
+
+**CLOUD**
+
+AWS
+Docker
+Kubernetes
+Infrastructure as Code
+
+</td>
+
+<td width="25%" align="center">
+
+### 🤖
+
+**AI**
+
+LLMs
+RAG
+Agents
+AI Applications
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-# ☁️ Cloud Engineering
-
-```text id="8k0dqs"
-                        INTERNET
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │   Cloudflare  │
-                    │  CDN / WAF    │
-                    └───────┬───────┘
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │ Load Balancer │
-                    └───────┬───────┘
-                            │
-              ┌─────────────┼─────────────┐
-              ▼             ▼             ▼
-          ┌────────┐   ┌────────┐   ┌────────┐
-          │ API #1 │   │ API #2 │   │ API #3 │
-          └────┬───┘   └────┬───┘   └────┬───┘
-               │            │            │
-               └────────────┼────────────┘
-                            │
-                    ┌───────┴───────┐
-                    ▼               ▼
-               ┌─────────┐     ┌─────────┐
-               │ Redis   │     │Postgres │
-               │ Cache   │     │   DB    │
-               └─────────┘     └─────────┘
-```
-
-**Focus**
-
-`AWS` · `Docker` · `CI/CD` · `Kubernetes` · `Terraform` · `Linux`
-
----
-
-# 📊 Engineering Metrics
-
-> Replace these with **real numbers from your projects**.
+# `04` · SYSTEM ARCHITECTURE
 
 <div align="center">
 
-| Metric                  |        Impact |
-| ----------------------- | ------------: |
-| 🚀 API Response Time    |      **-XX%** |
-| 📈 Throughput           | **XXK req/s** |
-| 👥 Users Supported      |      **XXK+** |
-| ⚡ Lighthouse Score      |    **XX/100** |
-| 🧪 Test Coverage        |       **XX%** |
-| ☁️ Deployment Frequency |   **XX/week** |
+### `Production Architecture`
 
 </div>
 
-**Never invent these metrics.** Real measurements are much more valuable than impressive-looking numbers.
+```text id="7d0w4x"
+                              USERS
+                                │
+                                ▼
+                     ┌────────────────────┐
+                     │       CDN / WAF     │
+                     └──────────┬─────────┘
+                                │
+                                ▼
+                     ┌────────────────────┐
+                     │    LOAD BALANCER   │
+                     └──────────┬─────────┘
+                                │
+              ┌─────────────────┼─────────────────┐
+              │                 │                 │
+              ▼                 ▼                 ▼
+        ┌──────────┐      ┌──────────┐      ┌──────────┐
+        │ API #01  │      │ API #02  │      │ API #03  │
+        └────┬─────┘      └────┬─────┘      └────┬─────┘
+             │                 │                 │
+             └─────────────────┼─────────────────┘
+                               │
+                   ┌───────────┴───────────┐
+                   │                       │
+                   ▼                       ▼
+             ┌────────────┐          ┌────────────┐
+             │   REDIS    │          │   KAFKA    │
+             │   CACHE    │          │   EVENTS   │
+             └─────┬──────┘          └─────┬──────┘
+                   │                       │
+                   └───────────┬───────────┘
+                               ▼
+                      ┌─────────────────┐
+                      │   POSTGRESQL    │
+                      │   PRIMARY DB    │
+                      └─────────────────┘
+```
+
+### Design Principles
+
+`Horizontal Scaling` · `Caching` · `Async Processing` · `Observability` · `Fault Tolerance`
 
 ---
 
-# 🚀 Featured Projects
+# `05` · FLAGSHIP PROJECTS
 
-## 01 · Scalable Full-Stack Application
+<div align="center">
 
-**YOUR_PROJECT_NAME**
+## 🚀 PROJECT ALPHA
 
-Production-oriented application demonstrating real-world engineering practices.
+### `YOUR_FLAGSHIP_PROJECT`
 
-### Architecture
-
-```text
-Client
-  ↓
-Next.js
-  ↓
-API Gateway
-  ↓
-Node.js Services
-  ↓
-Redis ─────── PostgreSQL
-  ↓
-Background Workers
-  ↓
-AWS
-```
-
-### Engineering Highlights
-
-* JWT / OAuth authentication
-* Role-based authorization
-* REST / GraphQL APIs
-* Redis caching
-* PostgreSQL indexing
-* Background processing
-* Dockerized deployment
-* CI/CD pipeline
-
-### Stack
+**Production-grade software engineered for scale.**
 
 <img src="https://skillicons.dev/icons?i=nextjs,typescript,nodejs,postgres,redis,docker,aws&perline=7"/>
 
-[View Repository →](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
+<br/><br/>
 
----
+`Authentication` · `RBAC` · `Caching` · `Rate Limiting` · `CI/CD`
 
-# 🤖 02 · AI Engineering Project
+<br/>
 
-**YOUR_AI_PROJECT**
-
-AI-powered application demonstrating modern GenAI architecture.
-
-### Pipeline
-
-```text
-User
- ↓
-API
- ↓
-Prompt / Query Processing
- ↓
-Embedding
- ↓
-Vector Search
- ↓
-Context Retrieval
- ↓
-LLM
- ↓
-Response
-```
-
-### Concepts
-
-`LLM` · `RAG` · `Embeddings` · `Vector Search` · `AI Agents`
-
-### Stack
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker&perline=3"/>
-
----
-
-# ☁️ 03 · Cloud / DevOps Project
-
-**YOUR_CLOUD_PROJECT**
-
-Infrastructure-focused project demonstrating deployment and automation.
-
-### Stack
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,linux&perline=6"/>
-
-### Engineering
-
-```text
-Git Push
-   ↓
-GitHub Actions
-   ↓
-Build
-   ↓
-Test
-   ↓
-Docker Image
-   ↓
-Registry
-   ↓
-Kubernetes
-   ↓
-Production
-```
-
----
-
-# 🧩 Problem Solving
-
-<div align="center">
-
-### Competitive Programming / DSA
-
-<img src="https://img.shields.io/badge/LeetCode-YOUR_RATING-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Codeforces-YOUR_RATING-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
-### Topics
-
-```text
-Arrays
-Strings
-Hashing
-Two Pointers
-Sliding Window
-Binary Search
-Trees
-Graphs
-Dynamic Programming
-Greedy
-Heaps
-Backtracking
-Bit Manipulation
-```
-
-> Add only platforms and ratings you actually use.
-
 ---
-
-# 🧠 System Design
-
-Currently focusing on:
-
-```text
-                    SYSTEM DESIGN
-                          │
-        ┌─────────────────┼─────────────────┐
-        │                 │                 │
-     Scalability       Reliability       Security
-        │                 │                 │
-   Load Balancing     Fault Tolerance    Auth
-   Caching            Replication        IAM
-   Sharding           Failover           Encryption
-   Partitioning       Observability      Rate Limits
-        │                 │                 │
-        └─────────────────┼─────────────────┘
-                          │
-                   DISTRIBUTED SYSTEMS
-```
-
-### Design Patterns
-
-`API Gateway` · `CQRS` · `Event Sourcing` · `Pub/Sub` · `Circuit Breaker` · `Saga` · `Caching` · `Sharding`
-
----
-
-# 📈 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"/>
+## 🤖 PROJECT NEURAL
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
+### `YOUR_AI_PROJECT`
+
+**AI-powered system using modern LLM architecture.**
+
+```text id="o5u3ps"
+User
+  ↓
+API
+  ↓
+Query Understanding
+  ↓
+Embedding
+  ↓
+Vector Retrieval
+  ↓
+Context Assembly
+  ↓
+LLM
+  ↓
+Response
+```
+
+`Python` · `FastAPI` · `LLM` · `RAG` · `Vector DB`
+
+</div>
+
+---
+
+<div align="center">
+
+## ☁️ PROJECT CLOUD
+
+### `YOUR_CLOUD_PROJECT`
+
+**Cloud-native infrastructure with automated deployment.**
+
+```text id="d2i4o0"
+CODE
+  ↓
+GIT PUSH
+  ↓
+CI
+  ↓
+TEST
+  ↓
+BUILD
+  ↓
+DOCKER
+  ↓
+REGISTRY
+  ↓
+KUBERNETES
+  ↓
+PRODUCTION
+```
+
+`AWS` · `Docker` · `Kubernetes` · `Terraform` · `GitHub Actions`
+
+</div>
+
+---
+
+# `06` · ENGINEERING IMPACT
+
+<div align="center">
+
+|  ⚡ Performance |    📈 Scale    |    🧪 Quality    |  ☁️ Reliability  |
+| :------------: | :------------: | :--------------: | :--------------: |
+| **XX%** faster | **XXK+** users | **XX%** coverage | **99.X%** uptime |
+
+</div>
+
+> Replace these with **verified numbers from your actual projects**.
+
+---
+
+# `07` · PROBLEM SOLVING
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DSA-ACTIVE-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-ACTIVE-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COMPETITIVE%20PROGRAMMING-ACTIVE-00C853?style=for-the-badge"/>
+
+</div>
+
+```text id="t0m3fu"
+Data Structures
+        ↓
+Algorithms
+        ↓
+Problem Solving
+        ↓
+Optimization
+        ↓
+System Design
+        ↓
+Production Engineering
+```
+
+### Core Areas
+
+`Arrays` · `Trees` · `Graphs` · `DP` · `Greedy` · `Binary Search`
+
+`Concurrency` · `Caching` · `Databases` · `Networking` · `Distributed Systems`
+
+---
+
+# `08` · GITHUB TELEMETRY
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&hide_border=true&theme=transparent&langs_count=8"/>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true"/>
 
 ---
 
-# 🔥 Consistency
+# `09` · CONTRIBUTION STREAK
 
 <div align="center">
 
@@ -415,27 +431,7 @@ Currently focusing on:
 
 ---
 
-# 🎯 2026 Engineering Goals
-
-```text
-[██████████████████░░] Advanced DSA
-[████████████████░░░░] System Design
-[███████████████░░░░░] Cloud Architecture
-[██████████████░░░░░░] Kubernetes
-[██████████████░░░░░░] Generative AI
-[████████████░░░░░░░░] Open Source
-```
-
-* [ ] 300+ quality DSA problems
-* [ ] Build 2 production-grade systems
-* [ ] Master advanced system design
-* [ ] Deploy scalable cloud infrastructure
-* [ ] Contribute to open source
-* [ ] Build an AI-powered production application
-
----
-
-# 🏆 Achievements
+# `10` · ACHIEVEMENTS
 
 <div align="center">
 
@@ -445,36 +441,67 @@ Currently focusing on:
 
 ---
 
-# 📚 Currently Learning
+# `11` · CURRENTLY ENGINEERING
+
+```text id="zj3g4x"
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  ◉ SYSTEM DESIGN                                        │
+│    Scalability • Reliability • Distributed Systems       │
+│                                                          │
+│  ◉ CLOUD                                                 │
+│    AWS • Kubernetes • Infrastructure as Code             │
+│                                                          │
+│  ◉ AI                                                    │
+│    LLMs • RAG • Agents • Evaluation                      │
+│                                                          │
+│  ◉ PERFORMANCE                                           │
+│    Caching • Async Processing • Optimization              │
+│                                                          │
+│  ◉ OPEN SOURCE                                           │
+│    Contributing • Building • Sharing                     │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `12` · ENGINEERING ROADMAP
 
 <div align="center">
 
-`System Design`
-`Distributed Systems`
-`AWS Architecture`
-`Kubernetes`
-`Generative AI`
-`Database Internals`
-`Performance Engineering`
+```text id="c8r7sh"
+SYSTEM DESIGN          ████████████████████  100%
+BACKEND ENGINEERING    ███████████████████░  95%
+CLOUD ENGINEERING      █████████████████░░░  90%
+DEVOPS                 ████████████████░░░░  85%
+GENERATIVE AI          ███████████████░░░░░  80%
+DISTRIBUTED SYSTEMS    ██████████████░░░░░░  75%
+OPEN SOURCE             ████████████░░░░░░░░  65%
+```
 
 </div>
 
 ---
 
-# 🤝 Let's Build
-
-I'm interested in collaborating on:
-
-**Open Source · AI · Cloud · Backend · Distributed Systems · Developer Tools**
+# `13` · CONNECT
 
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -483,10 +510,12 @@ I'm interested in collaborating on:
 
 <div align="center">
 
-### `Build → Measure → Learn → Improve`
+### `BUILD • SCALE • LEARN • REPEAT`
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Engineering+is+not+about+writing+more+code.;It's+about+creating+more+value.;Keep+building." />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:21262D,50:161B22,100:0D1117&section=footer"/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1D4ED8,45:111827,100:05070A&section=footer&animation=fadeIn"/>
 
 </div>
