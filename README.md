@@ -1,214 +1,101 @@
-<!-- ========================================================= -->
-
-<!--              ADVANCED GITHUB PROFILE README               -->
-
-<!-- ========================================================= -->
-
-<!-- Replace:
-     YOUR_USERNAME
-     YOUR_NAME
-     YOUR_EMAIL
-     YOUR_WEBSITE
-     YOUR_LINKEDIN
-     YOUR_TWITTER
-     YOUR_PROJECT_1
-     YOUR_PROJECT_2
-     YOUR_PROJECT_3
--->
-
 <div align="center">
 
-# 👋 Hey, I'm **YOUR_NAME**
-
-### `Full-Stack Developer` • `Cloud Engineer` • `AI Enthusiast`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Digital+Experiences;Full-Stack+%7C+Cloud+%7C+AI;Turning+Ideas+Into+Production-Ready+Systems;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:21262D&text=YOUR_NAME&fontSize=52&fontColor=58A6FF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cloud%20%7C%20AI%20%7C%20Distributed%20Systems&descAlignY=60&descSize=18"/>
 
 <br/>
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://YOUR_WEBSITE.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&logo=github" alt="GitHub Followers"/>
-</a>
+<br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat&logo=github" alt="GitHub Stars"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Designing+Scalable+Systems;Building+Cloud-Native+Applications;Engineering+AI-Powered+Products;Turning+Complex+Problems+Into+Elegant+Solutions;Open+Source+%7C+Architecture+%7C+Automation"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# `01` — SYSTEM.IDENTITY
 
 ```yaml
-name: YOUR_NAME
-role: Full-Stack Developer
-location: India 🇮🇳
-focus:
-  - Scalable Web Applications
-  - Cloud Architecture
-  - Artificial Intelligence
-  - Distributed Systems
-  - DevOps & Automation
-  - Open Source
+identity:
+  name: "YOUR_NAME"
+  username: "YOUR_USERNAME"
+  role: "Software Engineer"
+  location: "India 🇮🇳"
 
-currently_learning:
-  - Kubernetes
-  - System Design
-  - Advanced Cloud Architecture
-  - Generative AI
+engineering:
+  focus:
+    - "Scalable Systems"
+    - "Cloud Native Architecture"
+    - "Artificial Intelligence"
+    - "Distributed Systems"
+    - "Developer Experience"
+    - "Automation"
 
-philosophy: "Build. Learn. Improve. Repeat."
+mindset:
+  - "Design for scale"
+  - "Automate everything"
+  - "Measure what matters"
+  - "Build for humans"
+  - "Keep systems simple"
+
+currently:
+  building: "Production-grade software"
+  learning: "Advanced System Design + AI"
+  exploring: "Cloud Native & Distributed Architecture"
+
+status:
+  available_for_collaboration: true
+  open_to_open_source: true
 ```
 
-I'm a developer passionate about building **scalable, reliable and intelligent software systems**.
-
-I enjoy working across the entire engineering lifecycle — from designing system architecture and APIs to building interfaces, deploying infrastructure and optimizing production systems.
-
-* 🔭 Currently building **next-generation applications**
-* 🌱 Exploring **AI, Cloud & Distributed Systems**
-* 🧠 Interested in **System Design & Software Architecture**
-* ⚡ Love turning complex problems into simple solutions
-* 🤝 Open to interesting collaborations
-* 🚀 Always experimenting with new technologies
-
 ---
 
-# 🛠️ Technology Arsenal
-
-## 💻 Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,go,rust,bash,sql&perline=10" />
-</p>
-
----
-
-## 🎨 Frontend Engineering
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,tailwind,sass,vite,webpack&perline=10" />
-</p>
-
----
-
-## ⚙️ Backend Engineering
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,spring,graphql,nginx,rabbitmq&perline=9" />
-</p>
-
----
-
-## ☁️ Cloud & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,cloudflare,linux,ubuntu&perline=9" />
-</p>
-
----
-
-## 🗄️ Databases & Storage
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase,sqlite,dynamodb&perline=8" />
-</p>
-
----
-
-## 🤖 AI / Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=8" />
-</p>
-
-<p align="center">
-
-`Generative AI` • `LLMs` • `RAG` • `AI Agents` • `Vector Databases` • `Prompt Engineering`
-
-</p>
-
----
-
-## 🔄 DevOps & CI/CD
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,terraform,jenkins,linux&perline=8" />
-</p>
-
----
-
-## 🧰 Development Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,git,github,notion&perline=8" />
-</p>
-
----
-
-# 🏗️ Engineering Expertise
+# `02` — ENGINEERING PROFILE
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Application Engineering
+### ⚡ What I Build
 
-* Full-Stack Web Applications
-* RESTful API Design
-* GraphQL APIs
-* Microservices
-* Authentication & Authorization
-* Real-Time Applications
-* Performance Optimization
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☁️ Cloud Engineering
-
-* Cloud Architecture
-* Containerization
-* Kubernetes
-* Infrastructure as Code
-* CI/CD Pipelines
-* Monitoring & Observability
-* Production Deployment
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Engineering
-
-* Generative AI
-* Large Language Models
-* Retrieval-Augmented Generation
-* AI Agents
-* Vector Search
-* AI-powered Applications
-* ML Pipelines
+```text
+▸ Production Web Applications
+▸ Distributed Systems
+▸ Cloud-Native Platforms
+▸ AI-Powered Applications
+▸ Developer Tools
+▸ Automation Systems
+▸ High-Performance APIs
+```
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 Software Architecture
+### 🧠 What I Care About
 
-* System Design
-* Distributed Systems
-* Event-Driven Architecture
-* Scalability
-* High Availability
-* Caching
-* Message Queues
+```text
+▸ Scalability
+▸ Reliability
+▸ Security
+▸ Observability
+▸ Maintainability
+▸ Developer Experience
+▸ Performance
+```
 
 </td>
 </tr>
@@ -216,162 +103,354 @@ I enjoy working across the entire engineering lifecycle — from designing syste
 
 ---
 
-# 🚀 Featured Projects
+# `03` — TECHNOLOGY MATRIX
+
+## 🧬 Core Languages
 
 <div align="center">
 
-### ⭐ Project One
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,go,rust,cpp,c,bash,sql&perline=10"/>
+
+</div>
+
+---
+
+## 🎨 Frontend Architecture
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,tailwind,sass,vite,webpack&perline=10"/>
+
+</div>
+
+---
+
+## ⚙️ Backend & APIs
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,spring,graphql,nginx,rabbitmq,kafka&perline=10"/>
+
+</div>
+
+---
+
+## ☁️ Cloud & Platform Engineering
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,cloudflare,linux&perline=9"/>
+
+</div>
+
+---
+
+## 🗄️ Data Layer
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase,sqlite,dynamodb&perline=8"/>
+
+</div>
+
+---
+
+## 🤖 AI / ML / GenAI
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=8"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LLMs-Engineering-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Systems-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Agents-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector-Search-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt-Engineering-111827?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🔧 DevOps / CI/CD / Observability
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,terraform,jenkins,prometheus,grafana,linux&perline=10"/>
+
+</div>
+
+---
+
+# `04` — ARCHITECTURE
+
+I enjoy designing systems around:
+
+```text
+                    ┌──────────────────────┐
+                    │       CLIENTS        │
+                    │ Web • Mobile • APIs  │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │     EDGE / CDN       │
+                    │  DNS • WAF • Cache   │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │    API GATEWAY       │
+                    │ Auth • Rate Limit    │
+                    └──────────┬───────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              ▼                ▼                ▼
+        ┌──────────┐     ┌──────────┐     ┌──────────┐
+        │ Service A│     │ Service B│     │ Service C│
+        └────┬─────┘     └────┬─────┘     └────┬─────┘
+             │                │                │
+             └────────────────┼────────────────┘
+                              ▼
+                    ┌──────────────────────┐
+                    │   MESSAGE BROKER     │
+                    │ Kafka • RabbitMQ     │
+                    └──────────┬───────────┘
+                               │
+                    ┌──────────┴───────────┐
+                    ▼                      ▼
+             ┌────────────┐          ┌────────────┐
+             │ PostgreSQL │          │   Redis    │
+             └────────────┘          └────────────┘
+```
+
+### Engineering Principles
+
+| Area             | Principles                                  |
+| ---------------- | ------------------------------------------- |
+| 🏗️ Architecture | Modular • Distributed • Event-Driven        |
+| ⚡ Performance    | Caching • Async Processing • Load Balancing |
+| 🔐 Security      | Zero Trust • Least Privilege • Secure APIs  |
+| 📊 Observability | Logs • Metrics • Traces • Alerts            |
+| 🚀 Deployment    | Containers • CI/CD • Infrastructure as Code |
+| 📈 Scalability   | Horizontal Scaling • Queues • Sharding      |
+
+---
+
+# `05` — FEATURED ENGINEERING
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🚀 SYSTEM
 
 **YOUR_PROJECT_1**
 
-A production-ready application demonstrating modern full-stack architecture.
+Production-grade application designed around scalable architecture.
 
-`React` `Node.js` `PostgreSQL` `Docker` `AWS`
+**Stack**
 
-[🔗 View Project](https://github.com/YOUR_USERNAME/YOUR_PROJECT_1)
+`Next.js`
+`TypeScript`
+`Node.js`
+`PostgreSQL`
+`Redis`
+`Docker`
 
----
+<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_1">
+View Repository →
+</a>
 
-### ⚡ Project Two
+</td>
+
+<td width="33%" valign="top">
+
+### 🤖 AI
 
 **YOUR_PROJECT_2**
 
-An advanced application focused on automation, scalability and cloud infrastructure.
+Intelligent application using modern AI architecture.
 
-`Next.js` `TypeScript` `Python` `Docker` `Kubernetes`
+**Stack**
 
-[🔗 View Project](https://github.com/YOUR_USERNAME/YOUR_PROJECT_2)
+`Python`
+`FastAPI`
+`LLM`
+`RAG`
+`Vector DB`
+`Docker`
 
----
+<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_2">
+View Repository →
+</a>
 
-### 🤖 Project Three
+</td>
+
+<td width="33%" valign="top">
+
+### ☁️ CLOUD
 
 **YOUR_PROJECT_3**
 
-An AI-powered application using modern LLM and intelligent automation techniques.
+Cloud-native platform built for automation and reliability.
 
-`Python` `AI` `LLM` `RAG` `Vector Database`
+**Stack**
 
-[🔗 View Project](https://github.com/YOUR_USERNAME/YOUR_PROJECT_3)
+`AWS`
+`Kubernetes`
+`Terraform`
+`Docker`
+`GitHub Actions`
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_3">
+View Repository →
+</a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# `06` — GITHUB TELEMETRY
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&hide_border=true&langs_count=8&theme=transparent"/>
 
 </div>
 
----
-
-# 🔥 Contribution Streak
+<br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+<img width="80%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# `07` — CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# `08` — ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
-
-# 📚 Currently Exploring
+# `09` — CURRENTLY ENGINEERING
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  ☁️  Advanced Cloud Architecture                     │
-│  🧠  System Design & Distributed Systems             │
-│  🤖  Generative AI & AI Agents                       │
-│  ☸️  Kubernetes & Cloud Native Engineering           │
-│  🔐  Application Security                            │
-│  ⚡  High Performance Systems                         │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+╭─────────────────────────────────────────────────────────────╮
+│                                                             │
+│  [01] Distributed Systems                                  │
+│       └─ Scalability • Fault Tolerance • Consistency       │
+│                                                             │
+│  [02] Cloud Native                                          │
+│       └─ Kubernetes • Containers • IaC • GitOps             │
+│                                                             │
+│  [03] Generative AI                                         │
+│       └─ LLMs • RAG • Agents • Evaluation                  │
+│                                                             │
+│  [04] Platform Engineering                                  │
+│       └─ CI/CD • Observability • Developer Experience      │
+│                                                             │
+│  [05] System Design                                         │
+│       └─ Architecture • Reliability • Performance           │
+│                                                             │
+╰─────────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-# 🎯 2026 Goals
+# `10` — ENGINEERING ROADMAP
 
-* [ ] Build production-grade AI applications
-* [ ] Master advanced system design
-* [ ] Build scalable distributed systems
-* [ ] Contribute to major open-source projects
-* [ ] Deploy more cloud-native applications
-* [ ] Improve Kubernetes expertise
-* [ ] Share technical knowledge with the developer community
-
----
-
-# 🤝 Open Source & Collaboration
-
-I'm interested in collaborating on:
-
-* 🚀 Innovative software projects
-* 🤖 AI / ML applications
-* ☁️ Cloud-native systems
-* 🧩 Developer tools
-* 🌎 Open-source projects
-* 💡 Interesting technical experiments
-
-If you're building something interesting, **let's connect!**
+```text
+2026
+ │
+ ├── ████████████████████  System Design
+ │
+ ├── █████████████████░░░  Cloud Architecture
+ │
+ ├── ████████████████░░░░  Generative AI
+ │
+ ├── ███████████████░░░░░  Kubernetes
+ │
+ ├── ██████████████░░░░░░  Distributed Systems
+ │
+ └── ████████████░░░░░░░░  Open Source
+```
 
 ---
 
-# 🌐 Connect With Me
+# `11` — OPEN SOURCE
+
+<div align="center">
+
+```text
+┌────────────────────────────────────────────────────────┐
+│                                                        │
+│     BUILD  →  SHARE  →  LEARN  →  IMPROVE             │
+│                                                        │
+│     Contributing to the developer ecosystem.           │
+│                                                        │
+└────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+I'm interested in contributing to projects involving:
+
+* 🧠 Artificial Intelligence
+* ☁️ Cloud Native
+* 🛠️ Developer Tooling
+* 🌐 Distributed Systems
+* 🔐 Security
+* ⚡ Performance Engineering
+* 🌎 Open Source
+
+---
+
+# `12` — CONNECT
 
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://YOUR_WEBSITE.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -380,16 +459,10 @@ If you're building something interesting, **let's connect!**
 
 <div align="center">
 
-### 💭 Developer Philosophy
-
-> **"Great software isn't just written — it's engineered."**
+### `> Build systems. Solve problems. Ship impact.`
 
 <br/>
 
-⭐ If you find my work interesting, consider starring my repositories!
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:21262D,50:161B22,100:0D1117&section=footer"/>
 
 </div>
