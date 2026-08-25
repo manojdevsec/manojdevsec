@@ -14,15 +14,15 @@
 
 <br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/MANOJ. ALURI">
 <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&label=Followers&logo=github"/>
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&label=Stars&logo=github"/>
+<a href="https://github.com/MANOJ. ALURI?tab=repositories">
+<img src="https://img.shields.io/github/stars/MANOJ. ALURI?style=flat-square&label=Stars&logo=github"/>
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=MANOJ. ALURI&style=flat-square&color=58A6FF&label=PROFILE+VIEWS"/>
 
 </div>
 
