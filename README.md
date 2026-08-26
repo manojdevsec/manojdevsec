@@ -4,9 +4,25 @@
 
 <br/>
 
+<table>
+<tr>
+<td align="center" width="70%">
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=650&color=58A6FF&center=true&vCenter=true&width=900&height=45&lines=Software+Engineer;Full-Stack+%7C+Backend+%7C+Cloud;Designing+Scalable+Systems;Building+Production-Grade+Applications;Engineering+AI-Powered+Products;Turning+Ideas+Into+Reliable+Systems"/>
 
-<br/><br/>
+</td>
+
+<td align="center" width="30%">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/%E2%AD%90%20STAR-My%20GitHub-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <img src="https://img.shields.io/badge/STATUS-BUILDING-00C853?style=for-the-badge&logo=statuspage&logoColor=white"/>
 <img src="https://img.shields.io/badge/FOCUS-SYSTEM%20DESIGN-58A6FF?style=for-the-badge"/>
@@ -92,13 +108,9 @@ I enjoy working on problems involving:
 ### Engineering Philosophy
 
 > **Build simple.**
->
 > **Measure everything.**
->
 > **Design for failure.**
->
 > **Automate what can be automated.**
->
 > **Create systems that are easy to evolve.**
 
 ---
@@ -163,12 +175,12 @@ I enjoy working on problems involving:
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LLM%20Engineering-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20ENGINEERING-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector%20Search-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Evaluation-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20AGENTS-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VECTOR%20SEARCH-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20EVALUATION-111827?style=for-the-badge"/>
 
 </div>
 
@@ -288,9 +300,13 @@ AI Applications
 
 ### Design Priorities
 
+<div align="center">
+
 `Horizontal Scaling` · `Caching` · `Async Processing` · `Observability`
 
 `Fault Tolerance` · `Security` · `Automation` · `Performance`
+
+</div>
 
 ---
 
@@ -310,7 +326,7 @@ AI Applications
 
 `Authentication` · `RBAC` · `Caching` · `Rate Limiting` · `CI/CD`
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY">
 <img src="https://img.shields.io/badge/VIEW%20SOURCE-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
@@ -526,7 +542,7 @@ CLOUD ENGINEERING      █████████████████░░
 DEVOPS                 ████████████████░░░░   85%
 GENERATIVE AI          ███████████████░░░░░   80%
 DISTRIBUTED SYSTEMS    ██████████████░░░░░░   75%
-OPEN SOURCE             ████████████░░░░░░░░   65%
+OPEN SOURCE            ████████████░░░░░░░░   65%
 ```
 
 </div>
