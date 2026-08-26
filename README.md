@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&label=Followers&logo=github"/>
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<a href="https://github.com/MANOJ. ALURI?tab=repositories">
 <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&label=Stars&logo=github"/>
 </a>
 &nbsp;
