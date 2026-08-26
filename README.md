@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:05070A,35:0D1117,65:111827,100:1D4ED8&text=YOUR_NAME&fontAlignY=35&fontSize=54&fontColor=FFFFFF&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%7C%20SYSTEMS%20%7C%20CLOUD%20%7C%20AI&descAlignY=58&descSize=17&descColor=58A6FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:05070A,35:0D1117,65:111827,100:1D4ED8&text=MANOJ.%20ALURI&fontAlignY=35&fontSize=54&fontColor=FFFFFF&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%7C%20SYSTEMS%20%7C%20CLOUD%20%7C%20AI&descAlignY=58&descSize=17&descColor=58A6FF"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=650&color=58A6FF&center=true&vCenter=true&width=900&height=45&lines=Software+Engineer;Full-Stack+%7C+Backend+%7C+Cloud;Designing+Scalable+Systems;Building+Production-Grade+Applications;Engineering+AI-Powered+Products;Turning+Ideas+Into+Reliable+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=650&color=58A6FF&center=true&vCenter=true&width=900&height=45&lines=Software+Engineer;Full-Stack+%7C+Backend+%7C+Cloud;Designing+Scalable+Systems;Building+Production-Grade+Applications;Engineering+AI-Powered+Products;Turning+Ideas+Into+Reliable+Systems"/>
 
 <br/><br/>
 
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&label=Followers&logo=github"/>
 </a>
 &nbsp;
-<a href="https://github.com/MANOJ. ALURI?tab=repositories">
+<a href="https://github.com/YOUR_USERNAME?tab=repositories">
 <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&label=Stars&logo=github"/>
 </a>
 &nbsp;
@@ -32,11 +32,13 @@
 
 ## `> INITIALIZING ENGINEERING PROFILE...`
 
-```text id="q2k3hf"
+```text
 [████████████████████████████████████████] 100%
 
+IDENTITY ............... MANOJ. ALURI
 SYSTEM ................. ONLINE
 ENGINEERING ............ ACTIVE
+BACKEND ................ CONNECTED
 CLOUD .................. CONNECTED
 AI ..................... INITIALIZED
 OPEN SOURCE ............ ENABLED
@@ -47,45 +49,63 @@ STATUS ................. BUILDING
 
 ---
 
-# `01` · ENGINEERING IDENTITY
+# `01` · WHO AM I?
 
 <div align="center">
 
 ### `I don't just write code.`
 
-### `I engineer systems.`
+### `I engineer systems that solve real problems.`
 
 </div>
 
-I'm a software engineer focused on building **reliable, scalable and maintainable software**.
+I'm **MANOJ. ALURI**, a software engineer passionate about building **reliable, scalable, maintainable, and production-ready software**.
 
-My interests sit at the intersection of:
+My engineering interests span the complete lifecycle of modern applications:
 
-```text id="e4j7dn"
-                SOFTWARE ENGINEERING
-                         │
-        ┌────────────────┼────────────────┐
-        │                │                │
-        ▼                ▼                ▼
-     BACKEND          SYSTEMS           CLOUD
-        │                │                │
-        └────────────────┼────────────────┘
-                         │
-                         ▼
-                       AI
+```text
+                    SOFTWARE ENGINEERING
+                             │
+          ┌──────────────────┼──────────────────┐
+          │                  │                  │
+          ▼                  ▼                  ▼
+       BACKEND            SYSTEMS             CLOUD
+          │                  │                  │
+          └──────────────────┼──────────────────┘
+                             │
+                             ▼
+                            AI
 ```
+
+I enjoy working on problems involving:
+
+* Scalable backend architectures
+* Distributed systems
+* Cloud-native applications
+* APIs and microservices
+* Databases and data-intensive systems
+* Performance optimization
+* DevOps and infrastructure
+* Generative AI and LLM applications
+* System design and engineering fundamentals
 
 ### Engineering Philosophy
 
-> **Simple systems scale better.
-> Measurable systems improve faster.
-> Reliable systems create impact.**
+> **Build simple.**
+>
+> **Measure everything.**
+>
+> **Design for failure.**
+>
+> **Automate what can be automated.**
+>
+> **Create systems that are easy to evolve.**
 
 ---
 
-# `02` · TECHNOLOGY UNIVERSE
+# `02` · TECHNOLOGY STACK
 
-## ⚡ Core Technologies
+## ⚡ Languages
 
 <div align="center">
 
@@ -95,7 +115,7 @@ My interests sit at the intersection of:
 
 ---
 
-## 🎨 Frontend Engineering
+## 🎨 Frontend
 
 <div align="center">
 
@@ -105,7 +125,7 @@ My interests sit at the intersection of:
 
 ---
 
-## ⚙️ Backend Engineering
+## ⚙️ Backend & APIs
 
 <div align="center">
 
@@ -125,7 +145,7 @@ My interests sit at the intersection of:
 
 ---
 
-## 🗄️ Data Engineering
+## 🗄️ Databases & Data
 
 <div align="center">
 
@@ -135,7 +155,7 @@ My interests sit at the intersection of:
 
 ---
 
-## 🤖 Artificial Intelligence
+## 🤖 AI & Machine Learning
 
 <div align="center">
 
@@ -148,6 +168,7 @@ My interests sit at the intersection of:
 <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Vector%20Search-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Evaluation-111827?style=for-the-badge"/>
 
 </div>
 
@@ -168,6 +189,7 @@ System Design
 Distributed Systems
 Scalability
 Fault Tolerance
+Performance
 
 </td>
 
@@ -177,10 +199,11 @@ Fault Tolerance
 
 **BACKEND**
 
-APIs
+REST APIs
 Microservices
 Caching
 Message Queues
+Authentication
 
 </td>
 
@@ -193,7 +216,8 @@ Message Queues
 AWS
 Docker
 Kubernetes
-Infrastructure as Code
+Terraform
+CI/CD
 
 </td>
 
@@ -206,6 +230,7 @@ Infrastructure as Code
 LLMs
 RAG
 Agents
+Vector Search
 AI Applications
 
 </td>
@@ -219,51 +244,53 @@ AI Applications
 
 <div align="center">
 
-### `Production Architecture`
+### `Production-Oriented Architecture`
 
 </div>
 
-```text id="7d0w4x"
+```text
                               USERS
                                 │
                                 ▼
                      ┌────────────────────┐
-                     │       CDN / WAF     │
+                     │      CDN / WAF     │
                      └──────────┬─────────┘
                                 │
                                 ▼
                      ┌────────────────────┐
-                     │    LOAD BALANCER   │
+                     │   LOAD BALANCER    │
                      └──────────┬─────────┘
                                 │
-              ┌─────────────────┼─────────────────┐
-              │                 │                 │
-              ▼                 ▼                 ▼
-        ┌──────────┐      ┌──────────┐      ┌──────────┐
-        │ API #01  │      │ API #02  │      │ API #03  │
-        └────┬─────┘      └────┬─────┘      └────┬─────┘
-             │                 │                 │
-             └─────────────────┼─────────────────┘
+             ┌──────────────────┼──────────────────┐
+             │                  │                  │
+             ▼                  ▼                  ▼
+       ┌──────────┐       ┌──────────┐       ┌──────────┐
+       │ API #01  │       │ API #02  │       │ API #03  │
+       └────┬─────┘       └────┬─────┘       └────┬─────┘
+            │                  │                  │
+            └──────────────────┼──────────────────┘
                                │
-                   ┌───────────┴───────────┐
-                   │                       │
-                   ▼                       ▼
-             ┌────────────┐          ┌────────────┐
-             │   REDIS    │          │   KAFKA    │
-             │   CACHE    │          │   EVENTS   │
-             └─────┬──────┘          └─────┬──────┘
-                   │                       │
-                   └───────────┬───────────┘
-                               ▼
-                      ┌─────────────────┐
-                      │   POSTGRESQL    │
-                      │   PRIMARY DB    │
-                      └─────────────────┘
+                 ┌─────────────┴─────────────┐
+                 │                           │
+                 ▼                           ▼
+          ┌────────────┐              ┌────────────┐
+          │   REDIS    │              │   KAFKA    │
+          │   CACHE    │              │   EVENTS   │
+          └─────┬──────┘              └─────┬──────┘
+                │                           │
+                └─────────────┬─────────────┘
+                              ▼
+                     ┌──────────────────┐
+                     │    POSTGRESQL    │
+                     │    PRIMARY DB    │
+                     └──────────────────┘
 ```
 
-### Design Principles
+### Design Priorities
 
-`Horizontal Scaling` · `Caching` · `Async Processing` · `Observability` · `Fault Tolerance`
+`Horizontal Scaling` · `Caching` · `Async Processing` · `Observability`
+
+`Fault Tolerance` · `Security` · `Automation` · `Performance`
 
 ---
 
@@ -275,7 +302,7 @@ AI Applications
 
 ### `YOUR_FLAGSHIP_PROJECT`
 
-**Production-grade software engineered for scale.**
+**A production-grade application engineered with scalability and reliability in mind.**
 
 <img src="https://skillicons.dev/icons?i=nextjs,typescript,nodejs,postgres,redis,docker,aws&perline=7"/>
 
@@ -299,24 +326,31 @@ AI Applications
 
 ### `YOUR_AI_PROJECT`
 
-**AI-powered system using modern LLM architecture.**
+**An AI-powered application built around modern LLM and retrieval architecture.**
 
-```text id="o5u3ps"
-User
-  ↓
+```text
+USER
+  │
+  ▼
 API
-  ↓
-Query Understanding
-  ↓
-Embedding
-  ↓
-Vector Retrieval
-  ↓
-Context Assembly
-  ↓
+  │
+  ▼
+QUERY UNDERSTANDING
+  │
+  ▼
+EMBEDDING
+  │
+  ▼
+VECTOR RETRIEVAL
+  │
+  ▼
+CONTEXT ASSEMBLY
+  │
+  ▼
 LLM
-  ↓
-Response
+  │
+  ▼
+RESPONSE
 ```
 
 `Python` · `FastAPI` · `LLM` · `RAG` · `Vector DB`
@@ -331,25 +365,33 @@ Response
 
 ### `YOUR_CLOUD_PROJECT`
 
-**Cloud-native infrastructure with automated deployment.**
+**Cloud-native infrastructure with automated testing, deployment, and observability.**
 
-```text id="d2i4o0"
+```text
 CODE
-  ↓
+  │
+  ▼
 GIT PUSH
-  ↓
+  │
+  ▼
 CI
-  ↓
+  │
+  ▼
 TEST
-  ↓
+  │
+  ▼
 BUILD
-  ↓
+  │
+  ▼
 DOCKER
-  ↓
+  │
+  ▼
 REGISTRY
-  ↓
+  │
+  ▼
 KUBERNETES
-  ↓
+  │
+  ▼
 PRODUCTION
 ```
 
@@ -369,7 +411,7 @@ PRODUCTION
 
 </div>
 
-> Replace these with **verified numbers from your actual projects**.
+> Replace these metrics with **verified results from real projects**.
 
 ---
 
@@ -379,29 +421,33 @@ PRODUCTION
 
 <img src="https://img.shields.io/badge/DSA-ACTIVE-58A6FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SYSTEM%20DESIGN-ACTIVE-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/COMPETITIVE%20PROGRAMMING-ACTIVE-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-ACTIVE-00C853?style=for-the-badge"/>
 
 </div>
 
-```text id="t0m3fu"
-Data Structures
-        ↓
-Algorithms
-        ↓
-Problem Solving
-        ↓
-Optimization
-        ↓
-System Design
-        ↓
-Production Engineering
+```text
+DATA STRUCTURES
+       ↓
+ALGORITHMS
+       ↓
+PROBLEM SOLVING
+       ↓
+OPTIMIZATION
+       ↓
+SYSTEM DESIGN
+       ↓
+PRODUCTION ENGINEERING
 ```
 
 ### Core Areas
 
-`Arrays` · `Trees` · `Graphs` · `DP` · `Greedy` · `Binary Search`
+`Arrays` · `Linked Lists` · `Trees` · `Graphs` · `Heaps`
 
-`Concurrency` · `Caching` · `Databases` · `Networking` · `Distributed Systems`
+`Dynamic Programming` · `Greedy` · `Binary Search` · `Recursion`
+
+`Concurrency` · `Caching` · `Databases` · `Networking`
+
+`Distributed Systems` · `Operating Systems` · `System Design`
 
 ---
 
@@ -431,7 +477,7 @@ Production Engineering
 
 ---
 
-# `10` · ACHIEVEMENTS
+# `10` · GITHUB ACHIEVEMENTS
 
 <div align="center">
 
@@ -443,7 +489,7 @@ Production Engineering
 
 # `11` · CURRENTLY ENGINEERING
 
-```text id="zj3g4x"
+```text
 ┌──────────────────────────────────────────────────────────┐
 │                                                          │
 │  ◉ SYSTEM DESIGN                                        │
@@ -452,11 +498,14 @@ Production Engineering
 │  ◉ CLOUD                                                 │
 │    AWS • Kubernetes • Infrastructure as Code             │
 │                                                          │
-│  ◉ AI                                                    │
+│  ◉ ARTIFICIAL INTELLIGENCE                               │
 │    LLMs • RAG • Agents • Evaluation                      │
 │                                                          │
 │  ◉ PERFORMANCE                                           │
 │    Caching • Async Processing • Optimization              │
+│                                                          │
+│  ◉ DEVELOPER EXPERIENCE                                  │
+│    Automation • CI/CD • Developer Tooling                │
 │                                                          │
 │  ◉ OPEN SOURCE                                           │
 │    Contributing • Building • Sharing                     │
@@ -470,21 +519,21 @@ Production Engineering
 
 <div align="center">
 
-```text id="c8r7sh"
+```text
 SYSTEM DESIGN          ████████████████████  100%
-BACKEND ENGINEERING    ███████████████████░  95%
-CLOUD ENGINEERING      █████████████████░░░  90%
-DEVOPS                 ████████████████░░░░  85%
-GENERATIVE AI          ███████████████░░░░░  80%
-DISTRIBUTED SYSTEMS    ██████████████░░░░░░  75%
-OPEN SOURCE             ████████████░░░░░░░░  65%
+BACKEND ENGINEERING    ███████████████████░   95%
+CLOUD ENGINEERING      █████████████████░░░   90%
+DEVOPS                 ████████████████░░░░   85%
+GENERATIVE AI          ███████████████░░░░░   80%
+DISTRIBUTED SYSTEMS    ██████████████░░░░░░   75%
+OPEN SOURCE             ████████████░░░░░░░░   65%
 ```
 
 </div>
 
 ---
 
-# `13` · CONNECT
+# `13` · CONNECT WITH MANOJ
 
 <div align="center">
 
@@ -512,7 +561,7 @@ OPEN SOURCE             ████████████░░░░░░�
 
 ### `BUILD • SCALE • LEARN • REPEAT`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Engineering+is+not+about+writing+more+code.;It's+about+creating+more+value.;Keep+building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=750&lines=Engineering+is+not+about+writing+more+code.;It's+about+creating+more+value.;Design+for+scale.;Build+for+reliability.;Keep+learning.;Keep+building."/>
 
 <br/><br/>
 
