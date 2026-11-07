@@ -1,541 +1,308 @@
-<!-- ========================================================= -->
-
-<!--              MANOJ — GITHUB PROFILE README                -->
-
-<!-- ========================================================= -->
+<!--
+  MANOJ ALURI — GITHUB PROFILE / 2026
+  Visual direction: manojdevsec.github.io/manoj-portfolio
+  Theme: #11100D charcoal | #F3EADC warm ivory | #7CFF9B signal green
+  Animation assets are stored locally in /assets for reliable GitHub display.
+  Install this file in the PUBLIC profile repository: github.com/manojdevsec/manojdevsec
+-->
 
 <div align="center">
 
-<!-- AI / TECH HEADER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MANOJ&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%7C%20AI%20%7C%20Cybersecurity%20%7C%20Cloud&descAlignY=58&descSize=18"/>
-
-<br>
-
-<!-- TYPING ANIMATION -->
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Computer+Science+%26+Engineering+Student;Building+Secure+%26+Intelligent+Systems;AI+%7C+Cybersecurity+%7C+Cloud+%7C+DevOps;Learning.+Building.+Securing.+Automating.;Turning+Ideas+into+Real+World+Projects." alt="Typing SVG" />
+<a href="https://manojdevsec.github.io/manoj-portfolio/">
+  <img src="./assets/hero.gif" width="100%" alt="Animated editorial header — MANOJ ALURI, security-first software engineering" />
 </a>
 
-<br><br>
+<br />
 
-<!-- SOCIAL LINKS -->
-
-<a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1300&duration=3000&color=7CFF9B&center=true&vCenter=true&width=900&height=55&lines=Security-Focused+Software+Engineering;Cybersecurity+%7C+Backend+Systems+%7C+Networking;Designing+systems+with+security+from+day+one;Build.+Secure.+Automate.+Improve." alt="Animated role and engineering focus" />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br />
+
+<a href="https://manojdevsec.github.io/manoj-portfolio/">
+  <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-F3EADC?style=for-the-badge&logo=firefoxbrowser&logoColor=11100D" alt="Portfolio" />
+</a>
+<a href="https://github.com/manojdevsec">
+  <img src="https://img.shields.io/badge/GITHUB-191713?style=for-the-badge&logo=github&logoColor=F3EADC" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/manojaluri/">
+  <img src="https://img.shields.io/badge/LINKEDIN-191713?style=for-the-badge&logo=linkedin&logoColor=7CFF9B" alt="LinkedIn" />
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br /><br />
 
-<br><br>
+<img src="https://komarev.com/ghpvc/?username=manojdevsec&label=PROFILE%20VIEWS&color=7cff9b&style=flat-square" alt="GitHub profile views" />
+<img src="https://img.shields.io/badge/LOCATION-INDIA-191713?style=flat-square&labelColor=11100D&color=7CFF9B" alt="Based in India" />
+<img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIPS-191713?style=flat-square&labelColor=11100D&color=7CFF9B" alt="Open to internships" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00ffff&label=PROFILE+VIEWS"/>
+<sub>PORTFOLIO / SECURITY ENGINEERING / 2026</sub>
 
 </div>
+
+<br />
+
+<!-- ━━━━━━━━━━━━━━━━━━━ 01 / ABOUT ━━━━━━━━━━━━━━━━━━━ -->
+
+<a id="about"></a>
+<img src="./assets/section-01.svg" width="100%" alt="01 — About: Built on discipline" />
+
+### `01.1 / INTRODUCTION`
+
+> **I believe secure systems begin with intentional architecture — not last-minute fixes.**
+
+I'm **Manoj Aluri**, a **B.Tech Computer Science & Engineering student at JAIN (Deemed-to-be University), Kochi**, building my foundation across **cybersecurity, software engineering, backend systems, and enterprise infrastructure**.
+
+My technical education also includes a **Diploma in Information Technology Management Systems (ITMS)** at **IIHT, Bengaluru**. I enjoy moving between low-level infrastructure, hands-on security labs, and applications that solve meaningful problems.
+
+<div align="center">
+
+| 🎓 Education | 🎯 Current Direction | 🛡️ Approach |
+|:--:|:--:|:--:|
+| B.Tech CSE + ITMS Diploma | Security / Backend / Systems | **Design → Build → Test → Harden** |
+
+</div>
+
+### `01.2 / WHAT DRIVES MY WORK`
+
+- **Security by design** — identity, least privilege, logging, monitoring, and defensive controls.
+- **Systems thinking** — understand how code, networks, servers, and users interact.
+- **Practical engineering** — turn diagrams and theory into reproducible environments.
+- **Continuous learning** — test assumptions, document findings, and improve iteratively.
+
+<div align="center">
+
+**`DISCIPLINE`** &nbsp;•&nbsp; **`OWNERSHIP`** &nbsp;•&nbsp; **`ENGINEERING DEPTH`** &nbsp;•&nbsp; **`REAL IMPACT`**
+
+</div>
+
+<br />
+
+<!-- ━━━━━━━━━━━━━━━━━━━ 02 / PROJECTS ━━━━━━━━━━━━━━━━━━━ -->
+
+<a id="projects"></a>
+<img src="./assets/section-02.svg" width="100%" alt="02 — Selected Work: Systems with purpose" />
+
+The strongest part of my portfolio is the **technical work I can explain, demonstrate, and improve**. Published repositories come first; works in progress are clearly identified.
+
+### `PROJECT 01 / ENTERPRISE SECURITY LAB`
+
+#### 🔐 [Active Directory Kill Chain — Attack & Defense](https://github.com/manojdevsec/Active-Directory-Kill-Chain-Attack-Defense)
+
+An **isolated Windows domain lab** focused on understanding attack paths, observing host telemetry, and evaluating practical defensive controls. It connects the **red-team perspective** with **detection, incident response, and hardening**.
+
+**Architecture:** Windows Server / Active Directory / Windows 11 / Kali Linux / Sysmon / Wazuh
+
+<img src="./assets/security-lab.svg" width="100%" alt="Isolated Active Directory security lab: Kali, Windows 11, Windows Server and blue-team monitoring" />
+
+`Active Directory` `Windows Server` `GPO` `MITRE ATT&CK` `Security Monitoring` `Defensive Hardening`
+
+**[VIEW PROJECT REPOSITORY ↗](https://github.com/manojdevsec/Active-Directory-Kill-Chain-Attack-Defense)**
 
 ---
 
-# 🧑‍💻 About Me
+### `PROJECT 02 / APPLICATION SECURITY`
 
-<div align="center">
+#### 🔎 [Web Vulnerability Scanner](https://github.com/manojdevsec/web-vuln-scanner)
 
-### ✨ **"Learning today. Building tomorrow. Securing the future."** ✨
+A **Python-based modular web vulnerability scanning tool** developed to explore application security testing, reusable scanning logic, and clear technical reporting. Intended for **systems you own or are explicitly authorized to assess**.
 
-</div>
+`Python` `Web Application Security` `Modular Tools` `Authorized Testing`
 
-I am a **Bachelor of Technology in Computer Science & Engineering Student** passionate about building practical software systems and exploring modern technologies.
-
-My interests include:
-
-* 🤖 Artificial Intelligence & Machine Learning
-* 🔐 Cybersecurity
-* ☁️ Cloud Computing
-* ⚙️ DevOps & DevSecOps
-* 🐳 Docker & Containerization
-* ☸️ Kubernetes
-* 🌐 Full-Stack Development
-* 🏗️ Microservices Architecture
-* 🔄 CI/CD & GitOps
-* 🛡️ Secure Software Development
-
-I enjoy transforming concepts into **working projects**, experimenting with technologies, and continuously improving my engineering and security skills.
+**[VIEW PROJECT REPOSITORY ↗](https://github.com/manojdevsec/web-vuln-scanner)**
 
 ---
 
-# 🌌 My Technology Universe
+### `PROJECT 03 / MOBILE SAFETY SYSTEM`
 
-<div align="center">
+#### 🚗 RoadGuard — Road Accident Detection & SOS Workflow
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,react,html,css,mysql,git,github,docker,kubernetes,linux,aws,azure&perline=8" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Technology%20Stack&fontFamily=Inter&lineCount=2&theme=dark&line1=python%2Cpython%2C3776AB%3Bjava%2Cjava%2CED8B00%3Bjavascript%2Cjavascript%2CF7DF1E%3Btypescript%2Ctypescript%2C3178C6%3Bnodejs%2Cnode.js%2C339933&line2=docker%2Cdocker%2C2496ED%3Bkubernetes%2Ckubernetes%2C326CE5%3Bmysql%2Cmysql%2C4479A1%3Bgit%2Cgit%2CF05032%3Bgithub%2Cgithub%2Cffffff" />
-
-</div>
-
----
-
-# 🤖 AI & Intelligent Systems
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-</div>
-
-I am interested in building intelligent systems that can:
+A **Java / Android** safety application prototype exploring location awareness, sensor-driven accident detection, and a **user-controlled SOS message draft**. Emergency workflows are designed to avoid sending messages or making calls without user confirmation.
 
 ```text
-                    ┌───────────────────────┐
-                    │       USER INPUT      │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │     DATA / SIGNAL     │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │     AI / ML MODEL     │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │    INTELLIGENT        │
-                    │      DECISION         │
-                    └───────────┬───────────┘
-                                │
-                                ▼
-                    ┌───────────────────────┐
-                    │       ACTION          │
-                    └───────────────────────┘
+MOBILE SENSOR / LOCATION
+          │
+          ▼
+  POTENTIAL INCIDENT
+          │
+          ▼
+  USER REVIEW & CONTROL
+          │
+          ▼
+  EMERGENCY SMS DRAFT
 ```
+
+`Java` `Android Studio` `Location Services` `User Consent` &nbsp; · &nbsp; **Status: In development**
 
 ---
 
-# 🔐 Cybersecurity
+### `PROJECT 04 / SYSTEM DESIGN EXPLORATION`
+
+#### 🏗️ Unified Digital Service Delivery Platform (UDSDP)
+
+An **in-progress architectural concept** for a modular digital-service platform, exploring identity, API gateways, service separation, messaging, document storage, observability, and deployment automation.
+
+`REST APIs` `Node.js` `MySQL` `RabbitMQ` `MinIO / S3` `Docker` `Kubernetes` &nbsp; · &nbsp; **Status: Architecture / development**
+
+---
+
+### `PROJECT 05 / INFRASTRUCTURE AUTOMATION`
+
+#### 🌐 Enterprise NOC Automation & Incident Response Platform
+
+A **planned engineering project** combining network health checks, device inventory, event correlation, actionable alerts, and incident-response workflows.
+
+`Networking` `Linux` `Python` `Monitoring` `Automation` &nbsp; · &nbsp; **Status: Roadmap**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,docker,kubernetes" />
-
-</div>
-
-### Areas I'm Exploring
-
-| Area                     | Focus                                |
-| ------------------------ | ------------------------------------ |
-| 🏢 Active Directory      | Identity, authentication & security  |
-| 🔑 Identity Security     | Authentication & authorization       |
-| 🌐 Network Security      | Network architecture & monitoring    |
-| 🛡️ Application Security | Secure application development       |
-| 🔎 Threat Detection      | Logs, monitoring & detection         |
-| ⚔️ Attack Simulation     | Controlled security lab environments |
-| 🧰 Security Automation   | Scripts & automated workflows        |
-| 🔒 DevSecOps             | Security integrated into CI/CD       |
-
----
-
-# ☁️ Cloud & DevOps
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,githubactions,linux,nginx,git" />
-
-</div>
-
-```text
-                     SOURCE CODE
-                          │
-                          ▼
-                     ┌─────────┐
-                     │  Git    │
-                     └────┬────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │     CI/CD     │
-                  │ GitHub Actions│
-                  └───────┬───────┘
-                          │
-                          ▼
-                     ┌─────────┐
-                     │ Docker  │
-                     └────┬────┘
-                          │
-                          ▼
-                  ┌──────────────┐
-                  │ Kubernetes   │
-                  └──────┬───────┘
-                         │
-                         ▼
-                  ☁️ CLOUD / LAB
-```
-
----
-
-# 🏗️ Architecture & Engineering
-
-I enjoy working with architectures that separate responsibilities and make systems easier to maintain.
-
-### Technologies & Concepts
-
-* 🧩 Microservices
-* 🌐 REST APIs
-* 🚪 API Gateway
-* 🔐 Identity Services
-* 📦 Containerized Services
-* 📨 Message Queues
-* 🗄️ Relational Databases
-* ☁️ Object Storage
-* 🔄 Event-driven communication
-* 📊 Monitoring
-* 🔒 Secure service communication
-
----
-
-# 🚀 Featured Projects
-
-## 01 — Unified Digital Service Delivery Platform
-
-**UDSDP**
-
-> A secure, scalable, cloud-native platform for unified digital service delivery.
-
-### Architecture
-
-```text
-                           👤 USERS
-                              │
-                              ▼
-                       ┌─────────────┐
-                       │ WEB PORTAL  │
-                       └──────┬──────┘
-                              │
-                              ▼
-                       ┌─────────────┐
-                       │ API GATEWAY │
-                       └──────┬──────┘
-                              │
-            ┌─────────────────┼─────────────────┐
-            │                 │                 │
-            ▼                 ▼                 ▼
-      ┌───────────┐     ┌───────────┐     ┌───────────┐
-      │ Identity  │     │  Service  │     │ Document  │
-      │  Service  │     │  Service  │     │  Service  │
-      └───────────┘     └─────┬─────┘     └─────┬─────┘
-                              │                 │
-                              ▼                 ▼
-                       ┌────────────┐      ┌──────────┐
-                       │  Workflow  │      │ MinIO /  │
-                       │  Service   │      │ S3       │
-                       └─────┬──────┘      └──────────┘
-                             │
-                             ▼
-                       ┌────────────┐
-                       │  Payment   │
-                       │  Service   │
-                       └────────────┘
-
-                    📨 RabbitMQ
-                         │
-                         ▼
-                  Notification Service
-
-                    🗄️ MySQL
-```
-
-### Technology Stack
-
-```text
-Frontend       → Web Technologies
-Backend        → Node.js / REST APIs
-Database       → MySQL
-Messaging      → RabbitMQ
-Storage        → MinIO / S3
-Containers     → Docker
-Orchestration  → Kubernetes
-CI/CD          → GitHub Actions
-Deployment     → GitOps
-```
-
-**Status:** 🚧 Under Development
-
----
-
-## 02 — Road Accident Detector
-
-A mobile-oriented safety project designed to detect potential road accidents and initiate an emergency alert workflow.
-
-### Concept
-
-```text
-                 🚗 VEHICLE JOURNEY
-                        │
-                        ▼
-              ┌───────────────────┐
-              │ Mobile Sensors /  │
-              │ Detection System  │
-              └─────────┬─────────┘
-                        │
-                        ▼
-                 ┌─────────────┐
-                 │  Accident?  │
-                 └──────┬──────┘
-                        │
-                  ┌─────┴─────┐
-                  │           │
-                 NO          YES
-                  │           │
-                  ▼           ▼
-                NORMAL    🚨 ALERT
-                              │
-                              ▼
-                       📍 LOCATION
-                              │
-                              ▼
-                       📡 NOTIFICATION
-                              │
-                              ▼
-                    🚑 EMERGENCY RESPONSE
-```
-
-**Status:** 🚧 Under Development
-
----
-
-## 03 — Active Directory Attack & Defense Lab
-
-A controlled cybersecurity laboratory designed to study:
-
-* Active Directory
-* Windows Server
-* Windows clients
-* Authentication
-* Attack paths
-* Detection
-* Logging
-* Defensive controls
-* Security monitoring
-
-### Lab Environment
-
-```text
-                 ┌─────────────────────┐
-                 │    WINDOWS SERVER   │
-                 │      MAIN DC        │
-                 │    192.168.100.10   │
-                 └──────────┬──────────┘
-                            │
-                  ┌─────────┴─────────┐
-                  │                   │
-                  ▼                   ▼
-          ┌──────────────┐     ┌──────────────┐
-          │ Windows 11   │     │    Kali      │
-          │   Client     │     │    Linux     │
-          └──────────────┘     └──────────────┘
-
-                 🔐 CONTROLLED LAB
-```
-
-**Status:** 🧪 Security Research Lab
-
----
-
-# 🧰 Tools I Use
-
-<div align="center">
-
-| Category         | Technologies                            |
-| ---------------- | --------------------------------------- |
-| 💻 Languages     | Python · Java · JavaScript · TypeScript |
-| 🌐 Web           | HTML · CSS · JavaScript · React         |
-| 🖥️ Backend      | Node.js · REST APIs                     |
-| 🗄️ Database     | MySQL                                   |
-| 📦 Containers    | Docker                                  |
-| ☸️ Orchestration | Kubernetes                              |
-| 📨 Messaging     | RabbitMQ                                |
-| ☁️ Cloud         | AWS · Azure                             |
-| 🔄 CI/CD         | GitHub Actions                          |
-| 🐧 OS            | Linux · Windows                         |
-| 🔐 Security      | Active Directory · PowerShell · Bash    |
-| 🧰 Development   | VS Code · Git · GitHub                  |
-| 🗃️ Storage      | MinIO / S3                              |
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                  CURRENT LEARNING PATH                  ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  🤖 Artificial Intelligence                              ║
-║       │                                                  ║
-║       ├── Machine Learning                               ║
-║       └── Intelligent Applications                       ║
-║                                                          ║
-║  🔐 Cybersecurity                                        ║
-║       │                                                  ║
-║       ├── Active Directory                               ║
-║       ├── Network Security                               ║
-║       └── Security Monitoring                            ║
-║                                                          ║
-║  ☁️ Cloud & DevOps                                      ║
-║       │                                                  ║
-║       ├── Docker                                         ║
-║       ├── Kubernetes                                     ║
-║       ├── CI/CD                                          ║
-║       └── GitOps                                         ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
----
-
-# 🎯 2026 Focus
-
-* 🚀 Build production-style projects
-* 🤖 Explore practical AI applications
-* 🔐 Strengthen cybersecurity fundamentals
-* ☁️ Improve cloud & DevOps skills
-* ☸️ Learn Kubernetes deeply
-* 🔄 Build CI/CD pipelines
-* 🛡️ Practice DevSecOps
-* 🧪 Build realistic security labs
-* 📖 Improve system design knowledge
-* 💼 Build a strong technical portfolio
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
-
-</div>
-
----
-
-# ⚡ Developer Mindset
-
-<div align="center">
-
-### `BUILD → BREAK → LEARN → SECURE → AUTOMATE → IMPROVE`
-
-<br>
-
-> **"Technology is not just about writing code.
-> It's about understanding problems and building systems that solve them."**
-
-</div>
-
----
-
-# 🧭 My Engineering Journey
-
-```text
-                         ┌──────────────┐
-                         │   COMPUTER   │
-                         │   SCIENCE    │
-                         └──────┬───────┘
-                                │
-                ┌───────────────┼────────────────┐
-                │               │                │
-                ▼               ▼                ▼
-             🤖 AI          💻 SOFTWARE       🔐 SECURITY
-                │               │                │
-                └───────────────┼────────────────┘
-                                │
-                                ▼
-                         ☁️ CLOUD / DEVOPS
-                                │
-                                ▼
-                       🏗️ SYSTEM DESIGN
-                                │
-                                ▼
-                       🚀 REAL PROJECTS
-                                │
-                                ▼
-                         🌍 REAL IMPACT
-```
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/manojdevsec?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-7CFF9B?style=for-the-badge&logo=github&logoColor=11100D" alt="Explore all repositories" />
 </a>
 
 </div>
 
----
+<br />
+
+<!-- ━━━━━━━━━━━━━━━━━━━ 03 / TECH STACK ━━━━━━━━━━━━━━━━━━━ -->
+
+<a id="stack"></a>
+<img src="./assets/section-03.svg" width="100%" alt="03 — Technical DNA: Tools and capabilities" />
+
+### `03.1 / TOOLS & TECHNOLOGIES`
 
 <div align="center">
 
-### ✍️ **MANOJ**
-
-<sub>Computer Science & Engineering Student</sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,linux,bash,powershell,git,github,windows,docker,aws,azure,githubactions&perline=8" alt="Programming, operating systems, version control, cloud and infrastructure icons" />
 
 </div>
 
-<!-- ========================================================= -->
+<br />
 
-<!--                    END OF README                          -->
+| Domain | Technical focus |
+|:--|:--|
+| **🔐 Security Engineering** | Active Directory, identity, authentication, defensive hardening, security labs |
+| **🌐 Enterprise Networking** | CCNA fundamentals, TCP/IP, routing, switching, network troubleshooting |
+| **🖥️ Systems & Administration** | Windows Server / MCSA concepts, Linux, administration, PowerShell, Bash |
+| **💻 Software Development** | Python, Java, web fundamentals, SQL, Git |
+| **🧩 Backend & Architecture** | REST APIs, service boundaries, identity-aware design, relational data |
+| **☁️ Learning & Exploring** | Docker, Kubernetes, AWS, Azure, CI/CD, DevSecOps, cloud-native architecture |
+| **🤖 AI & ML Exploration** | Machine learning concepts, Python workflows, intelligent applications |
 
-<!-- ========================================================= -->
+### `03.2 / AREAS OF INTEREST`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SECURITY_ENGINEERING-11100D?style=for-the-badge&logo=hackthebox&logoColor=7CFF9B" alt="Security engineering" />
+<img src="https://img.shields.io/badge/NETWORK_ENGINEERING-11100D?style=for-the-badge&logo=cisco&logoColor=7CFF9B" alt="Network engineering" />
+<img src="https://img.shields.io/badge/BACKEND_SYSTEMS-11100D?style=for-the-badge&logo=nodedotjs&logoColor=7CFF9B" alt="Backend systems" />
+<img src="https://img.shields.io/badge/AUTOMATION-11100D?style=for-the-badge&logo=githubactions&logoColor=7CFF9B" alt="Automation" />
+<img src="https://img.shields.io/badge/AI_%26_ML-11100D?style=for-the-badge&logo=python&logoColor=7CFF9B" alt="AI and ML" />
+
+</div>
+
+<br />
+
+<!-- ━━━━━━━━━━━━━━━━━━━ 04 / ENGINEERING ━━━━━━━━━━━━━━━━━━━ -->
+
+<a id="engineering"></a>
+<img src="./assets/section-04.svg" width="100%" alt="04 — Engineering: Secure by design" />
+
+### `04.1 / THE SYSTEMS I WANT TO BUILD`
+
+I am interested in **well-structured applications and infrastructure** where every step — from commit to production monitoring — is understandable, testable, and defensible.
+
+<img src="./assets/delivery-pipeline.svg" width="100%" alt="Engineering blueprint: Git, CI tests, containers, deployment, and observability" />
+
+### `04.2 / WHAT I'M STUDYING NEXT`
+
+| 🛡️ Security | ⚙️ Engineering | 🤖 Intelligence |
+|:--|:--|:--|
+| Active Directory defense | API and service design | Applied ML fundamentals |
+| Detection & incident response | Docker & Kubernetes | Data preparation & evaluation |
+| Network security | CI/CD & GitOps | Intelligent automation |
+| Security automation | Observability & reliability | Responsible AI applications |
+
+### `04.3 / MY ENGINEERING PHILOSOPHY`
+
+```text
+     UNDERSTAND THE PROBLEM
+              ↓
+         DESIGN SIMPLY
+              ↓
+          BUILD WELL
+              ↓
+        TEST & VALIDATE
+              ↓
+        SECURE & OBSERVE
+              ↓
+      DOCUMENT & IMPROVE
+```
+
+> **Build it. Understand it. Secure it. Make it better.**
+
+<br />
+
+<!-- ━━━━━━━━━━━━━━━━━━━ 05 / GITHUB ━━━━━━━━━━━━━━━━━━━ -->
+
+<a id="github"></a>
+<img src="./assets/section-05.svg" width="100%" alt="05 — GitHub Signal: Learning in public" />
+
+<div align="center">
+
+<img width="54%" src="https://github-readme-stats.vercel.app/api?username=manojdevsec&show_icons=true&hide_border=true&bg_color=11100D&title_color=7CFF9B&text_color=F3EADC&icon_color=7CFF9B" alt="Manoj's GitHub activity overview" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojdevsec&layout=compact&hide_border=true&bg_color=11100D&title_color=7CFF9B&text_color=F3EADC" alt="Languages in public repositories" />
+
+<br />
+
+<img width="78%" src="https://streak-stats.demolab.com?user=manojdevsec&hide_border=true&background=11100D&ring=7CFF9B&fire=7CFF9B&currStreakLabel=F3EADC&sideNums=F3EADC&currStreakNum=F3EADC&dates=A59D8E&sideLabels=A59D8E" alt="GitHub activity streak" />
+
+</div>
+
+### `05.1 / CONTRIBUTION GRID IN MOTION`
+
+<!-- Generated in the 'output' branch by .github/workflows/snake.yml. -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/manojdevsec/manojdevsec/output/github-snake.svg" alt="Animated snake over Manoj's contribution graph — activate included GitHub Action" width="100%" />
+
+<sub>The contribution animation is generated by the included GitHub Actions workflow after you enable and run it.</sub>
+
+</div>
+
+<br />
+
+<!-- ━━━━━━━━━━━━━━━━━━━ CONTACT / FINAL CTA ━━━━━━━━━━━━━━━━━━━ -->
+
+<a id="contact"></a>
+<a href="https://www.linkedin.com/in/manojaluri/">
+  <img src="./assets/footer.gif" width="100%" alt="Animated contact banner — Let's Build" />
+</a>
+
+<div align="center">
+
+### Open to serious engineering internship opportunities
+
+**Software Engineering · Cybersecurity · Backend Systems · Network / Infrastructure Engineering**
+
+If you're building a thoughtful product, a secure system, or a strong engineering team, I'd be glad to connect.
+
+<br />
+
+<a href="https://www.linkedin.com/in/manojaluri/">
+  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-F3EADC?style=for-the-badge&logo=linkedin&logoColor=11100D" alt="Connect on LinkedIn" />
+</a>
+<a href="https://manojdevsec.github.io/manoj-portfolio/">
+  <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-7CFF9B?style=for-the-badge&logo=firefoxbrowser&logoColor=11100D" alt="View portfolio" />
+</a>
+<a href="https://github.com/manojdevsec">
+  <img src="https://img.shields.io/badge/EXPLORE_GITHUB-191713?style=for-the-badge&logo=github&logoColor=F3EADC" alt="Explore GitHub" />
+</a>
+
+<br /><br />
+
+**`BUILD → SECURE → AUTOMATE → IMPROVE`**
+
+<sub>© 2026 Manoj Aluri · Designed to complement my security engineering portfolio</sub>
+
+</div>
